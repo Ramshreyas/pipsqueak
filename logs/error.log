@@ -1,0 +1,476 @@
+2015/10/12 14:47:38 [emerg] 31518#0: open() "/restapitest/logs/error.log" failed (2: No such file or directory)
+2015/10/12 14:49:13 [emerg] 31601#0: open() "/restapi/logs/error.log" failed (2: No such file or directory)
+2015/10/12 15:08:33 [notice] 32194#0: signal process started
+2015/10/12 15:16:47 [notice] 32480#0: signal process started
+2015/10/12 15:27:02 [notice] 318#0: signal process started
+2015/10/12 15:27:02 [error] 318#0: open() "/root/restapi/logs/nginx.pid" failed (2: No such file or directory)
+2015/10/12 15:49:34 [error] 325#0: *17 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 16:14:11 [notice] 1741#0: signal process started
+2015/10/12 16:18:28 [error] 1742#0: *20 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 16:30:29 [error] 1742#0: *21 open() "/root/restapi/html/cgi-bin/common/attr" failed (2: No such file or directory), client: 115.239.228.8, server: , request: "GET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.2627305592725571 HTTP/1.1", host: "zc.qq.com"
+2015/10/12 16:47:39 [error] 1742#0: *24 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 16:59:38 [error] 1742#0: *25 open() "/root/restapi/html/cgi-bin/common/attr" failed (2: No such file or directory), client: 115.231.222.40, server: , request: "GET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7433616172748969 HTTP/1.1", host: "zc.qq.com"
+2015/10/12 17:07:12 [emerg] 3110#0: BIO_new_file("/opt/openresty/nginx/ssl/nginx.cert") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/openresty/nginx/ssl/nginx.cert','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2015/10/12 17:08:41 [notice] 3148#0: signal process started
+2015/10/12 17:08:41 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:08:41 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:08:41 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:08:41 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:08:41 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:08:41 [emerg] 324#0: still could not bind()
+2015/10/12 17:17:06 [error] 1742#0: *31 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 17:23:52 [notice] 3532#0: signal process started
+2015/10/12 17:23:52 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:23:52 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:23:52 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:23:52 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:23:52 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:23:52 [emerg] 324#0: still could not bind()
+2015/10/12 17:25:20 [notice] 3636#0: signal process started
+2015/10/12 17:31:49 [emerg] 3807#0: directive "ssl_certificate" is not terminated by ";" in /root/restapi/conf/nginx.conf:16
+2015/10/12 17:32:18 [notice] 3812#0: signal process started
+2015/10/12 17:32:18 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:32:18 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:32:18 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:32:18 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:32:18 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/12 17:32:18 [emerg] 324#0: still could not bind()
+2015/10/12 17:46:30 [error] 3637#0: *45 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 18:16:03 [error] 3637#0: *46 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 18:54:06 [error] 3637#0: *47 open() "/root/restapi/html/cgi-bin/common/attr" failed (2: No such file or directory), client: 115.239.228.8, server: , request: "GET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3610451056781085 HTTP/1.1", host: "zc.qq.com"
+2015/10/12 19:15:22 [error] 3637#0: *48 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 19:38:07 [error] 3637#0: *49 open() "/root/restapi/html/js/u_version.js" failed (2: No such file or directory), client: 162.254.25.117, server: , request: "GET /js/u_version.js HTTP/1.1", host: "205.147.96.238"
+2015/10/12 19:44:40 [error] 3637#0: *51 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 20:13:25 [error] 3637#0: *52 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 20:42:52 [error] 3637#0: *53 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 21:12:18 [error] 3637#0: *54 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 21:42:04 [error] 3637#0: *55 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 21:47:54 [error] 3637#0: *56 open() "/root/restapi/html/testproxy.php" failed (2: No such file or directory), client: 185.49.14.190, server: , request: "GET http://testp4.pospr.waw.pl/testproxy.php HTTP/1.1", host: "testp4.pospr.waw.pl"
+2015/10/12 21:48:59 [error] 3637#0: *57 open() "/root/restapi/html/cgi-bin/common/attr" failed (2: No such file or directory), client: 115.231.222.40, server: , request: "GET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0746645532894696 HTTP/1.1", host: "zc.qq.com"
+2015/10/12 22:14:03 [error] 3637#0: *58 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 22:14:15 [error] 3637#0: *59 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 22:14:17 [error] 3637#0: *58 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/12 23:41:33 [error] 3637#0: *60 open() "/root/restapi/html/cgi-bin/common/attr" failed (2: No such file or directory), client: 115.239.228.8, server: , request: "GET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.9525441709604012 HTTP/1.1", host: "zc.qq.com"
+2015/10/13 00:41:28 [error] 3637#0: *61 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 01:11:24 [error] 3637#0: *62 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 01:41:35 [error] 3637#0: *63 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 02:05:23 [error] 3637#0: *64 open() "/root/restapi/html/cgi-bin/common/attr" failed (2: No such file or directory), client: 115.239.228.8, server: , request: "GET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0682583771531237 HTTP/1.1", host: "zc.qq.com"
+2015/10/13 02:11:23 [error] 3637#0: *65 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 02:41:15 [error] 3637#0: *66 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 02:41:22 [error] 3637#0: *67 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 03:12:05 [error] 3637#0: *68 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 03:12:05 [error] 3637#0: *69 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 03:41:05 [error] 3637#0: *70 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 04:11:07 [error] 3637#0: *71 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 04:29:06 [error] 3637#0: *72 open() "/root/restapi/html/cgi-bin/common/attr" failed (2: No such file or directory), client: 115.239.228.8, server: , request: "GET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.0002725326215657 HTTP/1.1", host: "zc.qq.com"
+2015/10/13 04:40:57 [error] 3637#0: *73 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 05:10:58 [error] 3637#0: *74 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 05:41:18 [error] 3637#0: *75 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 06:05:09 [error] 3637#0: *76 open() "/root/restapi/html/manager/html" failed (2: No such file or directory), client: 201.116.69.137, server: , request: "GET /manager/html HTTP/1.1", host: "205.147.96.238"
+2015/10/13 06:10:51 [error] 3637#0: *77 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 06:40:32 [error] 3637#0: *78 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 06:52:57 [error] 3637#0: *79 open() "/root/restapi/html/cgi-bin/common/attr" failed (2: No such file or directory), client: 115.239.228.8, server: , request: "GET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.5902527079279276 HTTP/1.1", host: "zc.qq.com"
+2015/10/13 07:10:09 [error] 3637#0: *82 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 07:39:31 [error] 3637#0: *83 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 08:09:45 [error] 3637#0: *84 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.30.211, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 09:09:07 [error] 3637#0: *85 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 09:17:25 [error] 3637#0: *86 open() "/root/restapi/html/cgi-bin/common/attr" failed (2: No such file or directory), client: 115.239.228.8, server: , request: "GET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7508473507489621 HTTP/1.1", host: "zc.qq.com"
+2015/10/13 09:39:13 [error] 3637#0: *87 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 10:09:49 [error] 3637#0: *88 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 10:40:09 [error] 3637#0: *89 open() "/root/restapi/html/POST_ip_port.php" failed (2: No such file or directory), client: 222.186.129.5, server: , request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.1", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/10/13 11:28:31 [notice] 32439#0: signal process started
+2015/10/13 11:28:31 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/13 11:28:31 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/13 11:28:31 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/13 11:28:31 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/13 11:28:31 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/10/13 11:28:31 [emerg] 324#0: still could not bind()
+2015/10/13 11:32:26 [notice] 32574#0: signal process started
+2015/10/28 00:47:50 [error] 32575#0: *1947 open() "/root/restapi/html/nice ports,/Trinity.txt.bak" failed (2: No such file or directory), client: 204.93.180.6, server: 205.147.96.238:8080, request: "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0"
+2015/10/30 12:55:37 [error] 32575#0: *2076 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/users/PhoneNumber/9993524019"
+2015/10/30 13:01:12 [error] 32575#0: *2080 user "testuser": password mismatch, client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /Va/users/PhoneNumber/9993524019 HTTP/1.1", host: "205.147.96.238:8080"
+2015/10/30 13:04:21 [error] 32575#0: *2082 user "testuser": password mismatch, client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /Va/users/PhoneNumber/9993524019 HTTP/1.1", host: "205.147.96.238:8080"
+2015/10/30 13:04:44 [error] 32575#0: *2082 user "testuser": password mismatch, client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /Va/users/PhoneNumber/9993524019 HTTP/1.1", host: "205.147.96.238:8080"
+2015/11/02 12:54:19 [error] 32575#0: *2283 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/users/PhoneNumber/9993524019"
+2015/11/03 13:46:13 [error] 32575#0: *2519 user "testuser": password mismatch, client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /Va/users/PhoneNumber/9416942818 HTTP/1.1", host: "205.147.96.238:8080"
+2015/11/04 13:03:05 [notice] 11782#0: signal process started
+2015/11/15 05:35:46 [error] 11783#0: *7541 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/users/PhoneNumber/9993524019"
+2015/11/24 11:52:47 [emerg] 23354#0: invalid number of arguments in "add_header" directive in /root/restapi/conf/nginx.conf:21
+2015/11/24 11:53:41 [notice] 23361#0: signal process started
+2015/11/25 16:20:25 [error] 23362#0: *9216 open() "/root/restapi/html/nice ports,/Trinity.txt.bak" failed (2: No such file or directory), client: 14.215.176.20, server: 205.147.96.238:8080, request: "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0"
+2015/11/26 16:11:57 [notice] 15750#0: signal process started
+2015/11/26 16:23:33 [error] 15751#0: *9302 user "testuser": password mismatch, client: 106.216.130.98, server: 205.147.96.238:8080, request: "GET /Va/ HTTP/1.1", host: "205.147.96.238:8080"
+2015/11/26 16:42:55 [error] 15751#0: *9314 failed to load external Lua file "/root/restapi/./lua/update.lua": /root/restapi/./lua/update.lua:9: unexpected symbol near 'else', client: 106.216.130.98, server: 205.147.96.238:8080, request: "POST /Va/jobs/id/one HTTP/1.1", host: "205.147.96.238:8080"
+2015/11/26 16:46:20 [notice] 16700#0: signal process started
+2015/11/26 16:49:54 [notice] 16828#0: signal process started
+2015/11/26 16:51:24 [notice] 16887#0: signal process started
+2015/11/27 08:42:23 [notice] 9195#0: signal process started
+2015/11/27 09:02:51 [notice] 9967#0: signal process started
+2015/11/27 09:36:57 [notice] 10825#0: signal process started
+2015/11/27 09:44:00 [notice] 11028#0: signal process started
+2015/11/27 10:26:02 [notice] 12352#0: signal process started
+2015/11/27 10:29:01 [notice] 12400#0: signal process started
+2015/11/27 11:41:05 [notice] 14532#0: signal process started
+2015/11/27 11:47:57 [notice] 14667#0: signal process started
+2015/11/27 12:08:14 [notice] 15370#0: signal process started
+2015/11/27 12:08:27 [error] 15371#0: *9387 failed to load external Lua file "/root/restapi/./lua/insert.lua": /root/restapi/./lua/insert.lua:15: unexpected symbol near '...', client: 106.216.130.98, server: 205.147.96.238:8080, request: "POST /Va/jobs/ HTTP/1.1", host: "205.147.96.238:8080"
+2015/11/27 12:10:04 [notice] 15530#0: signal process started
+2015/11/27 12:10:09 [error] 15531#0: *9388 failed to load external Lua file "/root/restapi/./lua/insert.lua": /root/restapi/./lua/insert.lua:15: unexpected symbol near '...', client: 106.216.130.98, server: 205.147.96.238:8080, request: "POST /Va/jobs/ HTTP/1.1", host: "205.147.96.238:8080"
+2015/11/27 12:22:24 [notice] 15876#0: signal process started
+2015/11/27 12:51:05 [notice] 16958#0: signal process started
+2015/11/27 14:23:51 [notice] 19983#0: signal process started
+2015/11/27 14:31:29 [notice] 20270#0: signal process started
+2015/11/27 14:34:44 [notice] 20394#0: signal process started
+2015/12/01 12:35:33 [notice] 25456#0: signal process started
+2015/12/01 12:46:49 [notice] 25793#0: signal process started
+2015/12/01 12:53:50 [notice] 26014#0: signal process started
+2015/12/01 12:53:59 [error] 26015#0: *9669 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'list' (a function value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 106.206.132.59, server: 205.147.96.238:8080, request: "POST /Va/jobs/id/ HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/01 12:55:59 [notice] 26172#0: signal process started
+2015/12/01 12:56:03 [error] 26173#0: *9670 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a function value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 106.206.132.59, server: 205.147.96.238:8080, request: "POST /Va/jobs/id/ HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/01 12:56:48 [notice] 26202#0: signal process started
+2015/12/01 13:09:52 [notice] 26601#0: signal process started
+2015/12/02 13:33:41 [notice] 2431#0: signal process started
+2015/12/02 13:38:33 [notice] 2584#0: signal process started
+2015/12/02 14:54:00 [error] 2585#0: *9781 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/users/PhoneNumber/"
+2015/12/02 14:55:38 [error] 2585#0: *9786 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/02 14:55:38 [error] 2585#0: *9786 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/02 14:58:55 [notice] 5093#0: signal process started
+2015/12/02 15:02:52 [notice] 5237#0: signal process started
+2015/12/02 15:24:05 [notice] 5881#0: signal process started
+2015/12/02 16:44:14 [error] 5882#0: *9933 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/users/PhoneNumber/9416942818"
+2015/12/02 16:45:19 [error] 5882#0: *9939 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/users/PhoneNumber/9416942818"
+2015/12/02 17:40:45 [notice] 10116#0: signal process started
+2015/12/02 18:08:51 [notice] 10953#0: signal process started
+2015/12/03 09:49:29 [notice] 5250#0: signal process started
+2015/12/03 11:51:12 [error] 5251#0: *10160 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/applicants"
+2015/12/03 15:10:53 [error] 5251#0: *10221 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/users/sid/6339"
+2015/12/03 18:35:47 [error] 5251#0: *10545 lua entry thread aborted: runtime error: /root/restapi/./lua/insert.lua:15: attempt to concatenate local 'val' (a boolean value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/insert.lua: in function </root/restapi/./lua/insert.lua:1>, client: 59.145.190.70, server: 205.147.96.238:8080, request: "POST /Va/counsellors HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/03 22:04:09 [error] 5251#0: *10691 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 59.145.190.70, server: 205.147.96.238:8080, request: "POST /Va/applicants/job_id/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/04 11:23:31 [notice] 17204#0: signal process started
+2015/12/04 11:25:56 [notice] 17351#0: signal process started
+2015/12/04 11:26:31 [error] 17352#0: *10768 failed to load external Lua file "/root/restapi/./lua/get.lua": /root/restapi/./lua/get.lua:13: 'then' expected near 'limit', client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /Va/users/?limit=5 HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/04 11:26:39 [error] 17352#0: *10769 failed to load external Lua file "/root/restapi/./lua/get.lua": /root/restapi/./lua/get.lua:13: 'then' expected near 'limit', client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /Va/users/ HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/04 11:28:16 [error] 17352#0: *10770 failed to load external Lua file "/root/restapi/./lua/get.lua": /root/restapi/./lua/get.lua:13: 'then' expected near 'limit', client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /Va/jobs/assigned_counsellor/1 HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/04 11:30:44 [notice] 17503#0: signal process started
+2015/12/04 11:35:12 [notice] 17684#0: signal process started
+2015/12/04 11:35:31 [error] 17685#0: *10777 failed to load external Lua file "/root/restapi/./lua/get.lua": /root/restapi/./lua/get.lua:13: 'then' expected near 'limit', client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /Va/users?limit=10&offset=20 HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/04 11:36:45 [notice] 17719#0: signal process started
+2015/12/04 11:43:43 [error] 17720#0: *10782 lua entry thread aborted: runtime error: /root/restapi/./lua/get.lua:13: attempt to concatenate field 'limit' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/get.lua: in function </root/restapi/./lua/get.lua:1>, client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /Va/jobs/assigned_counsellor/1 HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/04 11:45:31 [error] 17720#0: *10784 lua entry thread aborted: runtime error: /root/restapi/./lua/get.lua:13: attempt to concatenate field 'limit' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/get.lua: in function </root/restapi/./lua/get.lua:1>, client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /Va/jobs/assigned_counsellor/1 HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/04 11:45:34 [error] 17720#0: *10785 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/jobs/assigned_counsellor/1"
+2015/12/04 11:47:25 [error] 17720#0: *10787 lua entry thread aborted: runtime error: /root/restapi/./lua/get.lua:13: attempt to concatenate field 'limit' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/get.lua: in function </root/restapi/./lua/get.lua:1>, client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /Va/users/sid/6339 HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/04 11:49:45 [notice] 18286#0: signal process started
+2015/12/04 11:49:50 [error] 18287#0: *10788 lua entry thread aborted: runtime error: /root/restapi/./lua/get.lua:13: attempt to concatenate field 'limit' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/get.lua: in function </root/restapi/./lua/get.lua:1>, client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /Va/users/sid/6339 HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/04 11:51:04 [notice] 18368#0: signal process started
+2015/12/04 11:51:09 [error] 18369#0: *10789 lua entry thread aborted: runtime error: /root/restapi/./lua/get.lua:13: attempt to concatenate field 'limit' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/get.lua: in function </root/restapi/./lua/get.lua:1>, client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /Va/users/sid/6339 HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/04 11:55:51 [notice] 18548#0: signal process started
+2015/12/04 11:55:56 [error] 18549#0: *10791 lua entry thread aborted: runtime error: /root/restapi/./lua/get.lua:13: attempt to concatenate field 'limit' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/get.lua: in function </root/restapi/./lua/get.lua:1>, client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /Va/users/sid/6339 HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/04 12:01:13 [notice] 18713#0: signal process started
+2015/12/07 11:18:47 [error] 18714#0: *12124 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/applicants/applicant_id/6339"
+2015/12/07 12:09:44 [error] 18714#0: *12240 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/07 12:09:44 [error] 18714#0: *12240 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/07 12:16:56 [notice] 21641#0: signal process started
+2015/12/07 12:16:56 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 12:16:56 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 12:16:56 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 12:16:56 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 12:16:56 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 12:16:56 [emerg] 324#0: still could not bind()
+2015/12/07 12:35:36 [notice] 22599#0: signal process started
+2015/12/07 12:35:36 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 12:35:36 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 12:35:36 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 12:35:36 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 12:35:36 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 12:35:36 [emerg] 324#0: still could not bind()
+2015/12/07 12:57:47 [error] 18714#0: *12288 open() "/root/restapi/html/echoback" failed (2: No such file or directory), client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /echoback HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/07 15:32:26 [notice] 29166#0: signal process started
+2015/12/07 15:32:26 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 15:32:26 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 15:32:26 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 15:32:26 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 15:32:26 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 15:32:26 [emerg] 324#0: still could not bind()
+2015/12/07 15:46:45 [error] 18714#0: *12333 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/jobs/assigned_counsellor/1"
+2015/12/07 16:07:55 [error] 18714#0: *12356 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/07 16:07:56 [error] 18714#0: *12356 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/07 16:10:18 [error] 18714#0: *12364 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/jobs/assigned_counsellor/1"
+2015/12/07 16:24:57 [error] 18714#0: *12383 user "testuser": password mismatch, client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /Va/jobs/assigned_counsellor/1 HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/07 16:25:19 [error] 18714#0: *12383 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/jobs/assigned_counsellor/1"
+2015/12/07 16:30:30 [notice] 31706#0: signal process started
+2015/12/07 16:30:30 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 16:30:30 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 16:30:30 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 16:30:30 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 16:30:30 [emerg] 324#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 16:30:30 [emerg] 324#0: still could not bind()
+2015/12/07 16:33:15 [error] 18714#0: *12403 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/users/PhoneNumber/9993524019"
+2015/12/07 16:41:56 [notice] 32152#0: signal process started
+2015/12/07 16:42:20 [notice] 32163#0: signal process started
+2015/12/07 16:42:20 [error] 32163#0: open() "/root/restapi/logs/nginx.pid" failed (2: No such file or directory)
+2015/12/07 16:42:34 [emerg] 32172#0: open() "/root/restapi/start" failed (2: No such file or directory)
+2015/12/07 16:44:31 [emerg] 32317#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 16:44:31 [emerg] 32317#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 16:44:31 [emerg] 32317#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 16:44:31 [emerg] 32317#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 16:44:31 [emerg] 32317#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2015/12/07 16:44:31 [emerg] 32317#0: still could not bind()
+2015/12/07 17:03:35 [notice] 1039#0: signal process started
+2015/12/07 17:15:08 [error] 1040#0: *45 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.174.135, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/07 17:15:15 [error] 1040#0: *46 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/08 09:51:01 [error] 1040#0: *129 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/applicants/applicant_id/6339"
+2015/12/08 11:13:53 [error] 1040#0: *189 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/08 15:21:10 [emerg] 15390#0: unknown "request_methos" variable
+2015/12/08 15:21:43 [notice] 15425#0: signal process started
+2015/12/08 16:10:32 [emerg] 17199#0: "auth_basic" directive is not allowed here in /root/restapi/conf/nginx.conf:93
+2015/12/08 16:18:49 [notice] 17409#0: signal process started
+2015/12/08 16:58:27 [notice] 18899#0: signal process started
+2015/12/08 18:40:50 [notice] 22930#0: signal process started
+2015/12/08 18:42:29 [error] 22931#0: *496 user "testuser": password mismatch, client: 106.216.155.121, server: 205.147.96.238:8080, request: "GET / HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/08 18:42:39 [error] 22931#0: *497 user "testuser": password mismatch, client: 106.216.155.121, server: 205.147.96.238:8080, request: "GET / HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/08 18:43:42 [notice] 23017#0: signal process started
+2015/12/08 18:43:55 [error] 23018#0: *498 user "testuser": password mismatch, client: 106.216.155.121, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/09 10:09:30 [error] 23018#0: *557 user "testuser": password mismatch, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /login HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/09 10:09:43 [error] 23018#0: *557 user "testuser": password mismatch, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /login HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/09 12:07:13 [notice] 22757#0: signal process started
+2015/12/09 16:26:56 [error] 22758#0: *705 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/users/PhoneNumber/9416942818"
+2015/12/10 04:29:49 [error] 22758#0: *1036 user "testuserf" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/10 04:59:26 [error] 22758#0: *1050 user "testuser": password mismatch, client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/"
+2015/12/10 06:41:56 [error] 22758#0: *1115 user "fhakjs" was not found in "/opt/openresty/nginx/.htpasswd", client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/"
+2015/12/10 07:05:15 [error] 22758#0: *1139 user "fgh" was not found in "/opt/openresty/nginx/.htpasswd", client: 59.145.190.70, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/"
+2015/12/10 11:24:04 [error] 22758#0: *1222 user "test" was not found in "/opt/openresty/nginx/.htpasswd", client: 106.216.155.121, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 11:24:08 [error] 22758#0: *1222 user "test" was not found in "/opt/openresty/nginx/.htpasswd", client: 106.216.155.121, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:31:20 [error] 22758#0: *1388 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:31:56 [error] 22758#0: *1388 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:33:48 [error] 22758#0: *1409 user "fhaskj" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:35:55 [error] 22758#0: *1431 user "fjaklds" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:44:10 [error] 22758#0: *1471 user "ojfaslk" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:44:17 [error] 22758#0: *1471 user "ojfaslk" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:44:31 [error] 22758#0: *1471 user "ojfaslk" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:54:51 [error] 22758#0: *1515 user "ojfaslk" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:55:18 [error] 22758#0: *1518 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:55:21 [error] 22758#0: *1518 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:55:23 [error] 22758#0: *1518 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:55:26 [error] 22758#0: *1518 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:55:30 [error] 22758#0: *1518 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:55:34 [error] 22758#0: *1518 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:56:33 [error] 22758#0: *1518 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:57:59 [error] 22758#0: *1526 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:58:00 [error] 22758#0: *1526 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 18:58:52 [error] 22758#0: *1526 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 19:00:59 [error] 22758#0: *1539 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 19:01:14 [error] 22758#0: *1539 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 19:01:29 [error] 22758#0: *1539 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 19:01:31 [error] 22758#0: *1539 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 19:09:00 [error] 22758#0: *1566 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 19:09:25 [error] 22758#0: *1566 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 19:14:42 [error] 22758#0: *1582 user "rytrytfhg" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 19:15:03 [error] 22758#0: *1582 user "rytrytfhg" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/10 23:52:07 [error] 22758#0: *1674 user "fhsakdj" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/"
+2015/12/11 01:12:23 [error] 22758#0: *1992 user "fjalksdj" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/"
+2015/12/11 01:15:32 [error] 22758#0: *2005 user "testuserfjal" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/"
+2015/12/11 01:30:12 [error] 22758#0: *2068 open() "/root/restapi/html/counsellors/username/testuser" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /counsellors/username/testuser HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/11 01:39:19 [error] 22758#0: *2084 user "testuserfajk" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /Va/counsellors/username/testuserfajk HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/"
+2015/12/11 01:40:40 [error] 22758#0: *2104 user "testuser": password mismatch, client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /Va/counsellors/username/testuser HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/"
+2015/12/11 12:55:32 [error] 22758#0: *2182 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/11 12:55:37 [error] 22758#0: *2182 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/11 12:55:38 [error] 22758#0: *2182 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/11 12:55:43 [error] 22758#0: *2182 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/11 12:58:37 [error] 22758#0: *2196 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/11 12:58:40 [error] 22758#0: *2196 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/11 12:58:41 [error] 22758#0: *2196 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/11 13:12:26 [error] 22758#0: *2215 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/11 13:12:27 [error] 22758#0: *2215 user "testuser": password mismatch, client: 106.206.150.255, server: 205.147.96.238:8080, request: "GET /login HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/"
+2015/12/11 15:23:25 [notice] 12949#0: signal process started
+2015/12/11 15:28:38 [notice] 13108#0: signal process started
+2015/12/13 20:06:08 [error] 13109#0: *2474 user "testuserh" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /Va/counsellors/username/testuserh HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/"
+2015/12/13 20:09:22 [error] 13109#0: *2477 user "vbzceiow" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /Va/counsellors/username/vbzceiow HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/"
+2015/12/13 22:12:49 [error] 13109#0: *2568 user "vbzceiow" was not found in "/opt/openresty/nginx/.htpasswd", client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /Va/counsellors/username/vbzceiow HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/"
+2015/12/14 00:30:35 [error] 13109#0: *2685 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/jobs/"
+2015/12/14 09:07:50 [error] 13109#0: *3284 open() "/root/restapi/html/applicants" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /applicants HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/14 09:12:41 [error] 13109#0: *3311 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 59.145.190.70, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/app.html"
+2015/12/14 09:15:23 [error] 13109#0: *3316 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 59.145.190.70, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/app.html"
+2015/12/14 09:15:33 [error] 13109#0: *3318 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 59.145.190.70, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/app.html"
+2015/12/14 09:30:59 [error] 13109#0: *3339 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 59.145.190.70, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/app.html"
+2015/12/14 09:31:18 [error] 13109#0: *3341 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 59.145.190.70, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://rozgar-mela.herokuapp.com/app.html"
+2015/12/15 08:53:10 [error] 13109#0: *4148 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/15 08:53:15 [error] 13109#0: *4150 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/15 08:53:28 [error] 13109#0: *4155 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/15 09:06:23 [error] 13109#0: *4192 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/15 09:06:31 [error] 13109#0: *4194 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/15 16:06:21 [error] 13109#0: *4361 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 103.48.108.103, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/counsellors"
+2015/12/16 14:25:55 [alert] 13109#0: *4541 write() to "/root/restapi/logs/access.log" was incomplete: 68 of 172 while logging request, client: 106.206.158.200, server: 205.147.96.238:8080, request: "OPTIONS /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/16 14:34:25 [alert] 13109#0: *4544 write() to "/root/restapi/logs/access.log" failed (28: No space left on device) while logging request, client: 222.186.30.211, server: 205.147.96.238:8080, request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/12/16 14:37:14 [alert] 13109#0: *4545 write() to "/root/restapi/logs/access.log" failed (28: No space left on device) while logging request, client: 106.206.158.200, server: 205.147.96.238:8080, request: "OPTIONS /Va/jobs/assigned_counsellor/1 HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/16 15:04:04 [alert] 13109#0: *4548 write() to "/root/restapi/logs/access.log" failed (28: No space left on device) while logging request, client: 222.186.30.211, server: 205.147.96.238:8080, request: "POST http://123.249.24.233/POST_ip_port.php HTTP/1.0", host: "123.249.24.233", referrer: "http://123.249.24.233/POST_ip_port.phpAccept: */*"
+2015/12/16 15:11:47 [alert] 13109#0: *4549 write() to "/root/restapi/logs/access.log" failed (28: No space left on device) while logging request, client: 115.231.222.40, server: 205.147.96.238:8080, request: "GET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.3823593345005541 HTTP/1.1", host: "zc.qq.com"
+2015/12/16 16:48:19 [notice] 7661#0: signal process started
+2015/12/16 16:56:29 [error] 7662#0: *4563 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.221.145.38, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "rozgarmela.com:8080", referrer: "https://rozgarmela.com:8080/"
+2015/12/16 17:06:20 [error] 7662#0: *4565 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.221.145.38, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "rozgarmela.com:8080"
+2015/12/16 17:06:20 [error] 7662#0: *4565 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.221.145.38, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "rozgarmela.com:8080"
+2015/12/16 17:27:09 [notice] 9037#0: signal process started
+2015/12/16 17:54:49 [notice] 10345#0: signal process started
+2015/12/16 18:04:53 [error] 10346#0: *4607 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/jobs?order=created&desc=true&limit=5&offset=10"
+2015/12/18 01:09:28 [error] 10346#0: *4742 lua entry thread aborted: runtime error: /root/restapi/./lua/insert.lua:15: attempt to concatenate local 'val' (a boolean value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/insert.lua: in function </root/restapi/./lua/insert.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/18 01:10:21 [error] 10346#0: *4745 lua entry thread aborted: runtime error: /root/restapi/./lua/insert.lua:15: attempt to concatenate local 'val' (a boolean value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/insert.lua: in function </root/restapi/./lua/insert.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/18 01:23:02 [error] 10346#0: *4754 lua entry thread aborted: runtime error: /root/restapi/./lua/update.lua:15: attempt to concatenate local 'val' (a boolean value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/update.lua: in function </root/restapi/./lua/update.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/Gender/666 HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/23 05:21:15 [error] 10346#0: *5531 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 59.145.190.70, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/23 05:26:37 [error] 10346#0: *5558 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 59.145.190.70, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/23 07:45:31 [error] 10346#0: *5642 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/23 08:01:05 [error] 10346#0: *5674 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/23 08:01:37 [error] 10346#0: *5680 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/23 09:30:26 [error] 10346#0: *5685 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/23 09:32:27 [error] 10346#0: *5688 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/23 09:33:03 [error] 10346#0: *5691 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/23 09:34:05 [error] 10346#0: *5696 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/23 09:34:48 [error] 10346#0: *5700 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/23 12:41:14 [notice] 11654#0: signal process started
+2015/12/23 12:42:54 [error] 11655#0: *5911 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.190.247, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/23 12:42:54 [error] 11655#0: *5911 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.190.247, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/23 12:47:14 [error] 11655#0: *5928 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080", referrer: "https://205.147.96.238:8080/Va/jobs/assigned_counsellor/id/1"
+2015/12/23 13:03:11 [error] 11655#0: *5940 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.190.247, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "rozgarmela.com:8080"
+2015/12/23 13:03:11 [error] 11655#0: *5940 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.190.247, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "rozgarmela.com:8080"
+2015/12/23 13:03:32 [error] 11655#0: *5943 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.190.247, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "www.rozgarmela.com:8080"
+2015/12/23 13:03:33 [error] 11655#0: *5943 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.190.247, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "www.rozgarmela.com:8080"
+2015/12/26 11:19:26 [error] 11655#0: *6254 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/26 11:24:16 [error] 11655#0: *6274 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/26 11:27:24 [error] 11655#0: *6279 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/26 11:31:54 [error] 11655#0: *6297 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080"
+2015/12/26 11:40:22 [error] 11655#0: *6314 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/26 11:40:41 [error] 11655#0: *6319 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/26 11:44:21 [error] 11655#0: *6324 lua entry thread aborted: runtime error: /root/restapi/./lua/batch-get.lua:13: attempt to concatenate local 'body' (a nil value)
+stack traceback:
+coroutine 0:
+	/root/restapi/./lua/batch-get.lua: in function </root/restapi/./lua/batch-get.lua:1>, client: 61.246.234.222, server: 205.147.96.238:8080, request: "POST /Va/users/sid/ HTTP/1.1", host: "205.147.96.238:8080", referrer: "http://localhost:8080/app.html"
+2015/12/26 23:50:32 [error] 11655#0: *6805 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "www.rozgarmela.com:8080", referrer: "https://www.rozgarmela.com:8080/Va/jobs/id/3"
+2015/12/28 13:59:51 [error] 11655#0: *6903 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "rozgarmela.com:8080", referrer: "https://rozgarmela.com:8080/"
+2015/12/28 14:00:56 [error] 11655#0: *6912 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.246.234.222, server: 205.147.96.238:8080, request: "GET /favicon.ico HTTP/1.1", host: "www.rozgarmela.com:8080", referrer: "https://www.rozgarmela.com:8080/Va/counsellors/username/testuser"
+2015/12/28 16:02:36 [notice] 19390#0: signal process started
+2015/12/28 16:02:49 [error] 19391#0: *6936 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.165.7, server: www.rozgarmela.com, request: "GET /favicon.ico HTTP/1.1", host: "www.rozgarmela.com:8080"
+2015/12/28 16:02:49 [error] 19391#0: *6936 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.216.165.7, server: www.rozgarmela.com, request: "GET /favicon.ico HTTP/1.1", host: "www.rozgarmela.com:8080"
+2015/12/28 16:32:39 [error] 19391#0: *6955 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 61.3.49.156, server: www.rozgarmela.com, request: "GET /favicon.ico HTTP/1.1", host: "www.rozgarmela.com:8080", referrer: "https://www.rozgarmela.com:8080/"
+2015/12/30 01:05:39 [error] 19391#0: *7155 open() "/root/restapi/html/_asterisk" failed (2: No such file or directory), client: 199.115.117.117, server: www.rozgarmela.com, request: "GET /_asterisk HTTP/1.1", host: "205.147.96.238:8080"
+2016/01/02 16:35:38 [error] 19391#0: *7531 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.206.147.255, server: www.rozgarmela.com, request: "GET /favicon.ico HTTP/1.1", host: "www.rozgarmela.com:8080"
+2016/01/02 16:37:05 [error] 19391#0: *7536 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.206.147.255, server: www.rozgarmela.com, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2016/01/02 16:37:05 [error] 19391#0: *7536 open() "/root/restapi/html/favicon.ico" failed (2: No such file or directory), client: 106.206.147.255, server: www.rozgarmela.com, request: "GET /favicon.ico HTTP/1.1", host: "205.147.96.238:8080"
+2016/01/04 07:19:28 [notice] 2206#0: signal process started
+2016/01/04 07:26:17 [notice] 2372#0: signal process started
+2016/01/04 07:35:39 [notice] 2608#0: signal process started
+2016/01/04 07:37:58 [notice] 2665#0: signal process started
